@@ -1,0 +1,1 @@
+In this program you create a regular account, if you are a private person, if you are a doctor, you will add something that will show you more options to add your location, your working hours, and the days you are available.
